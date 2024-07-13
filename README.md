@@ -1,0 +1,1 @@
+Developed multiple Python programs to check ride eligibility, determine if a number is even or odd, manage dinner table reservations, handle user input with while loops, and format full names, showcasing proficiency in user input handling, conditional.
